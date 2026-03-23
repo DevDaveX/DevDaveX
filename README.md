@@ -1,91 +1,112 @@
-# 👋 Hi, I'm Dave
+# 👋 Hi, I'm DevDaveX
 
-Welcome to my GitHub profile!
+<p align="center">
+  🚀 Hobby Developer | Tools • Systems • Game Projects
+</p>
 
-I'm a hobby developer who enjoys building tools, experimenting with technologies, and creating systems that solve practical problems or enhance gameplay experiences.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-Hobby%20Developer-purple?style=for-the-badge" />
+</p>
 
 ---
 
-## ⚠️ Important Note
+## ⚠️ About Me
 
 I am **not a professional developer**.
 
-- 🧑‍💻 I have **not learned programming professionally**
-- 🎯 Everything I build is based on **self-learning and personal interest**
-- 🚀 This is purely a **hobby and passion project**
+- 🧑‍💻 Completely **self-taught**
+- 🎯 Programming is a **hobby and passion**
+- 🚀 I build projects to learn and experiment
 
-That means:
-- My code may not always follow best practices
-- Projects may be experimental or unfinished
-- I continuously learn and improve over time
+> This means:
+> - My code is constantly improving  
+> - Some projects are experimental  
+> - I focus on learning rather than perfection  
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 🧠 Languages
-- TypeScript
-- JavaScript
-- Python
-- PHP
-- Lua
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-blue?logo=lua&logoColor=white" />
+</p>
 
 ### 🌐 Frontend
-- React
-- Vite
-- TailwindCSS
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-purple?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+</p>
 
 ### 🔧 Backend & Tools
-- Supabase
-- Node.js
-- REST APIs
-- Git & GitHub
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-REST-orange" />
+  <img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## 🧩 What I build
 
-- ⚙️ Web applications & tools
-- 📊 Calculation and optimization systems
-- 🎮 Game-related tools (e.g. Tycoon calculators)
-- 🧠 Logic-heavy systems
+- ⚙️ Web tools & applications  
+- 📊 Calculation & optimization systems  
+- 🎮 Game-related tools (Tycoon, simulation, etc.)  
+- 🧠 Logic-heavy systems  
 
 ---
 
 ## 🎯 Focus
 
-- Learning by doing
-- Building useful tools
-- Understanding systems & logic
-- Improving code quality over time
+- Clean & understandable code  
+- Learning by doing  
+- Building useful tools  
+- Understanding complex systems  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDaveX&show_icons=true&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaveX&layout=compact&theme=dark" height="170"/>
+</p>
 
 ---
 
 ## 📌 About my repositories
 
-Some of my repositories are:
+Most of my projects are:
 
-- 🔍 Published for transparency
-- 🧠 Meant for learning and experimentation
-- ⚠️ Not always production-ready
+- 🔍 Published for transparency  
+- 🧠 Learning-based  
+- ⚠️ Not always production-ready  
 
 ---
 
 ## ⭐ Interests
 
-- Game mechanics & balancing
-- Optimization systems
-- UI/UX for complex tools
-- Automation & workflows
+- Game systems & balancing  
+- Optimization & simulation  
+- UI/UX for complex tools  
+- Automation  
 
 ---
 
 ## 📫 Contact
 
-Feel free to explore my projects or reach out!
+Feel free to explore my repositories 🚀
 
 ---
 
 <p align="center">
-  Built with curiosity and passion 💚
+  Built with curiosity 💚
 </p>
