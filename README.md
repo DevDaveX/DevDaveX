@@ -76,8 +76,8 @@ I am **not a professional developer**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevDaveX&show_icons=true&theme=dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaveX&layout=compact&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDaveX&show_icons=true&theme=dark&cache_seconds=1800&v=2" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaveX&layout=compact&theme=dark&cache_seconds=1800&v=2" height="170"/>
 </p>
 
 ---
